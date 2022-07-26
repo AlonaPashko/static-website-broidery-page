@@ -2,6 +2,15 @@ body{
     background-color: bisque;
     text-align: center;
 }
+.broidery-img{
+    max-width: 70%;
+    border-radius: 10px;
+    margin: 30px auto;
+    display: block;
+}
+footer {
+    text-align: center;
+}
 
 footer a {
     margin: 0 10px;
